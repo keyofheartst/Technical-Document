@@ -1,0 +1,17 @@
+Dear Hiring Team at TORILAB,
+I recently learned that your company is hiring for the Data Engineer position, and I’m excited to submit my application for consideration. 
+
+I’m writing to express my interest in the Data Engineer position. With over 6 years of experience delivering end-to-end data solutions, including designing scalable data platforms and orchestrating ETL pipelines, I believe my background aligns well with many aspects of the role.
+
+In my current position as a Senior Data Engineer at United Insurance Company of Vietnam, I’ve led cloud-based data pipeline projects using AWS services such as Glue, S3, and Athena. I’m proficient in Python and SQL, and have hands-on experience with Airflow for workflow orchestration. My work has consistently involved designing data models, building ELT pipelines, and deploying reporting systems that support high-performance data access.
+
+Throughout my career, I’ve participated in multiple projects both as a team member and as a team lead, contributing to the design and implementation of data systems and solutions on both on-premise and cloud platforms. These experiences have strengthened my ability to collaborate across teams, manage project timelines, and deliver scalable, reliable data infrastructure tailored to business needs.
+
+I’m confident that my experience in building robust data infrastructures and my proactive approach to problem-solving would allow me to contribute effectively to your team. I would welcome the opportunity to discuss how my skills and background could support your goals.
+
+Thank you for considering my application. I look forward to the possibility of speaking with you further.
+
+Warm regards,
+Duong Van Chien
+0962145390
+chiendv.sthn@gmail.com
